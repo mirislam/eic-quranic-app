@@ -3,7 +3,6 @@ import 'package:flutter/services.dart' show SystemUiOverlayStyle, rootBundle;
 
 import 'package:csv/csv.dart';
 import 'view_file.dart';
-import 'pdfview.dart';
 
 void main() {
   runApp(const MyApp());
